@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FfgYCmIKNnOO9k0Gg4VRK4dyIpRSNC4ElTipBSonfGzZ5f3GIyb7rBErcsUzUZgrrGC2CpMRBFwtE9nGzQgSRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yusuf\\Desktop\\C# Dersleri\\Kaynak_Kodları\\Devicesinfo\\Devicesinfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yusuf\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\yusuf\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
